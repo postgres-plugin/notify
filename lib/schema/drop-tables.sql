@@ -1,0 +1,3 @@
+-- Delete table
+DROP TABLE IF EXISTS notifications CASCADE;
+DROP TABLE IF EXISTS events CASCADE;
